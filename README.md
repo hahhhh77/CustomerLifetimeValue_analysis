@@ -3,7 +3,8 @@
 > 본 코드에서는 다음의 방식을 활용하여 CLV를 계산하는 것에 대해서 다룸
 > <br>
 > <br> 1) 공식을 활용한 CLV 계산
-> <br> 2) BG-NBD와 Gamma-Gamma 모델을 활용한 CLV 계산
+> <br> 2) Regression model을 활용한 CLV 예측
+> <br> 3) BG-NBD와 Gamma-Gamma 모델을 활용한 CLV 예측
 <br>
 
 ##  고객 생애 가치
